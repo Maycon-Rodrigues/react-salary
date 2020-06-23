@@ -19,7 +19,7 @@ Exercitar os seguintes conceitos trabalhados no Módulo:
 Construa, utilizando React, uma aplicação para a calcular o salário líquido a partir
 do salário bruto, considerando as regras da CLT de 2020.
 
- ###### Ativida
+ ###### Atividade
 
 Os alunos deverão desempenhar as seguintes atividades:
 
